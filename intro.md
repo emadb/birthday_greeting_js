@@ -28,7 +28,7 @@ TTTTTT  T:::::T  TTTTTT  D:::::D    D:::::D D:::::D    D:::::D
 TDD is not about testing. Having tests is a side effects.
 
 ## 1) History
-Back in 1995 Kent Beck starts to talk about Extreme Programming that includes TTDD as part of the process. The (C3 project)[https://en.wikipedia.org/wiki/Chrysler_Comprehensive_Compensation_System] was the first project in which XP was used.
+Back in 1995 Kent Beck starts to talk about Extreme Programming that includes TDD as part of the process. The (C3 project)[https://en.wikipedia.org/wiki/Chrysler_Comprehensive_Compensation_System] was the first project in which XP was used.
 
 ## 2) TDD Basic workflow
 
