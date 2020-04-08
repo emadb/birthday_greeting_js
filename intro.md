@@ -48,12 +48,12 @@ Back in 1995 Kent Beck starts to talk about Extreme Programming that includes TT
   2. Think about how to test it
   3. Write a small test. Think about the desired API
   4. Write just enough code to fail the test
-  5. Run and watch the test fail. (The test-runner, if you’re using something like JUnit, shows the “Red Bar”). Now you know that your test is going to be executed
+  5. Run and watch the test fail. (The test-runner, if you're using something like JUnit, shows the "Red Bar"). Now you know that your test is going to be executed
   6. Write just enough code to pass the test (and pass all your previous tests)
-  7. Run and watch all of the tests pass. If it doesn’t pass, you did something wrong, fix it now since it’s got to be something you just wrote.
+  7. Run and watch all of the tests pass. If it doesn't pass, you did something wrong, fix it now since it's got to be something you just wrote.
   8. If you have any duplicate logic, or inexpressive code, refactor to remove duplication and increase expressiveness — this includes reducing coupling and increasing cohesion.
   9. Run the tests again, you should still have the Green Bar. If you get the Red Bar, then you made a mistake in your refactoring. Fix it now and re-run.
-  10. Repeat the steps above until you can’t find any more tests that drive writing new code.
+  10. Repeat the steps above until you can't find any more tests that drive writing new code.
 
 ## 4) Are there any benefits?
  - Developer needs to think before writing a new feature
