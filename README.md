@@ -1,4 +1,5 @@
 ## Birthday greeting kata
+Original idea: [The birthday greetings kata](http://matteo.vaccari.name/blog/archives/154)
 
 Problem: write a program that
 - Loads a set of employee records from a flat file
